@@ -18,7 +18,8 @@
 5. Make a jenkins pipeline and push it on docker hub + webhook 
 6. After pushing file on dockerhub push it on ec2
 7. Connecting ec2 with S3 bucket named as flasknotesapp through cli
-8. Saving ec2 files on s3 through cronjobs
+8. Give roles to s3
+9. Saving ec2 files on s3 through cronjobs
 
 # The app is running
 
